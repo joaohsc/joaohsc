@@ -1,7 +1,7 @@
-## 👋 Hello, I'm João Henrique
+## 👋 Olá, eu sou o João
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/joaohenriquesc/)](https://www.linkedin.com/in/joaohenriquesc/) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:joaohscorrea@gmail.com)](mailto:joaohscorrea@gmail.com)
 
-I'm a Science and Tecnology studant at Universidade Federal do Rio Grande do norte.
+Sou desenvolvedor de software com experiências na construção de sistemas web utilizando Python, Django e bancos relacionais(PostgreSQL, Mysql, SQL Server).
 
 ## 🛠️ Languages & Tools
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
